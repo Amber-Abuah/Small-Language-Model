@@ -1,9 +1,10 @@
 ## Small Language Model
 
 A SLM trained to generate Visual Novel scripts similar to `Doki Doki Literature Club`.  
-The model consists of 4 transformer encoder-only layers and a total of `2,553,331` parameters.  
+The model consists of 4 transformer decoder-only layers and a total of `2,553,331` parameters.  
 
-!
+![2hzndjrea6o11bg](https://github.com/user-attachments/assets/5fccba18-5db6-49ac-9178-6156bb5d41ed)
+
 
 ### Training
 The SLM undergoes **Curriculum Learning**, a training strategy where the model is firstly introduced to simple examples and graudally introduced to more complex examples.  
