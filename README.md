@@ -35,4 +35,4 @@ Natsuki: "Eh? What?"
 Natsuki: "I can't take it seriously to your house in the first place." 
 <User>: "Yeah , I'll go ahead and get started soon." 
 ```
-More unformatted outputs can be found in `examples.txt`.
+More unformatted outputs can be found in `generated_examples.txt`.
